@@ -12,7 +12,7 @@ A React app created with [Create React App](https://create-react-app.dev/).
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/skillcrush/l3-soft-challenge-light-switch.git
+   git clone https://github.com/mrithwik/l3-soft-challenge-light-switch.git
    cd l3-soft-challenge-light-switch
    ```
 
